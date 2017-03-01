@@ -1,0 +1,7 @@
+<application>
+  <component name="ExternalResourceManagerImpl">
+    <resource url="antlib:org.apache.ivy.ant" location="D:/DEV/tools/apache-ivy-2.4.0/ivy.xsd" />
+    <ignored-resource url="ant:if" />
+    <ignored-resource url="ant:unless" />
+  </component>
+</application>

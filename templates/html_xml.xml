@@ -1,0 +1,8 @@
+<templateSet group="html/xml">
+  <template name="i18n" value="[[i18n('$KEY$')]]{key: &quot;$KEY$&quot;, en: &quot;$SELECTION$&quot;, entries: {de: undefined}}," description="surround a string for i18n with bdna-i18n behavior" toReformat="false" toShortenFQNames="true">
+    <variable name="KEY" expression="lowercaseAndDash(String)" defaultValue="$SELECTION$" alwaysStopAt="true" />
+    <context>
+      <option name="HTML" value="true" />
+    </context>
+  </template>
+</templateSet>
