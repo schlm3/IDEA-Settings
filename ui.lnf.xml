@@ -9,11 +9,10 @@
     <option name="EDITOR_TAB_LIMIT" value="15" />
     <option name="HIDE_TOOL_STRIPES" value="false" />
     <option name="SHOW_MEMORY_INDICATOR" value="true" />
-    <option name="SCROLL_TAB_LAYOUT_IN_EDITOR" value="false" />
     <option name="HIDE_TABS_IF_NEED" value="false" />
     <option name="HIDE_KNOWN_EXTENSION_IN_TABS" value="true" />
     <option name="OVERRIDE_NONIDEA_LAF_FONTS" value="true" />
-    <option name="MAX_LOOKUP_LIST_HEIGHT" value="6" />
+    <option name="MAX_LOOKUP_LIST_HEIGHT" value="34" />
     <option name="DND_WITH_PRESSED_ALT_ONLY" value="true" />
   </component>
 </application>
