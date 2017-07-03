@@ -1,5 +1,8 @@
 <application>
   <component name="LanguageInjectionConfiguration">
+    <injection language="ECMAScript 6" injector-id="js">
+      <display-name>script es6</display-name>
+    </injection>
     <injection language="JavaScript 1.8" injector-id="xml">
       <display-name>div/@hidden</display-name>
       <place><![CDATA[xmlAttribute().withLocalName(string().equalTo("hidden")).withParent(xmlTag().withLocalName(string().equalTo("div")).withNamespace(string().equalTo("http://www.w3.org/1999/html")))]]></place>
