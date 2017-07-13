@@ -1,0 +1,144 @@
+<profile version="1.0">
+  <option name="myName" value="Project Default" />
+  <inspection_tool class="Annotator" enabled="true" level="ERROR" enabled_by_default="true">
+    <scope name="Libs" level="ERROR" enabled="false" />
+  </inspection_tool>
+  <inspection_tool class="CssUnknownTarget" enabled="true" level="WARNING" enabled_by_default="true" />
+  <inspection_tool class="Duplicates" enabled="true" level="WEAK WARNING" enabled_by_default="true">
+    <scope name="Libs" level="WEAK WARNING" enabled="false" />
+  </inspection_tool>
+  <inspection_tool class="ES6ModulesDependencies" enabled="false" level="WEAK WARNING" enabled_by_default="false" />
+  <inspection_tool class="Eslint" enabled="true" level="ERROR" enabled_by_default="true" />
+  <inspection_tool class="HtmlUnknownAttribute" enabled="true" level="WARNING" enabled_by_default="true">
+    <option name="myValues">
+      <value>
+        <list size="11">
+          <item index="0" class="java.lang.String" itemvalue="include" />
+          <item index="1" class="java.lang.String" itemvalue="load-test-nodes" />
+          <item index="2" class="java.lang.String" itemvalue="items" />
+          <item index="3" class="java.lang.String" itemvalue="if" />
+          <item index="4" class="java.lang.String" itemvalue="strip-whitespace" />
+          <item index="5" class="java.lang.String" itemvalue="on-response" />
+          <item index="6" class="java.lang.String" itemvalue="on-error" />
+          <item index="7" class="java.lang.String" itemvalue="handle-as" />
+          <item index="8" class="java.lang.String" itemvalue="method" />
+          <item index="9" class="java.lang.String" itemvalue="content-type" />
+          <item index="10" class="java.lang.String" itemvalue="on-tap" />
+        </list>
+      </value>
+    </option>
+    <option name="myCustomValuesEnabled" value="true" />
+  </inspection_tool>
+  <inspection_tool class="HtmlUnknownTag" enabled="true" level="WARNING" enabled_by_default="true">
+    <option name="myValues">
+      <value>
+        <list size="51">
+          <item index="0" class="java.lang.String" itemvalue="nobr" />
+          <item index="1" class="java.lang.String" itemvalue="noembed" />
+          <item index="2" class="java.lang.String" itemvalue="comment" />
+          <item index="3" class="java.lang.String" itemvalue="noscript" />
+          <item index="4" class="java.lang.String" itemvalue="embed" />
+          <item index="5" class="java.lang.String" itemvalue="script" />
+          <item index="6" class="java.lang.String" itemvalue="dom-module" />
+          <item index="7" class="java.lang.String" itemvalue="iron-ajax" />
+          <item index="8" class="java.lang.String" itemvalue="app-header" />
+          <item index="9" class="java.lang.String" itemvalue="app-toolbar" />
+          <item index="10" class="java.lang.String" itemvalue="paper-icon-button" />
+          <item index="11" class="java.lang.String" itemvalue="yf-print-support" />
+          <item index="12" class="java.lang.String" itemvalue="yf-graphcontrol" />
+          <item index="13" class="java.lang.String" itemvalue="yf-styles" />
+          <item index="14" class="java.lang.String" itemvalue="te-shape-map" />
+          <item index="15" class="java.lang.String" itemvalue="te-edge-map" />
+          <item index="16" class="java.lang.String" itemvalue="yf-palette" />
+          <item index="17" class="java.lang.String" itemvalue="paper-drawer-panel" />
+          <item index="18" class="java.lang.String" itemvalue="app-header-layout" />
+          <item index="19" class="java.lang.String" itemvalue="app-drawer-layout" />
+          <item index="20" class="java.lang.String" itemvalue="app-drawer" />
+          <item index="21" class="java.lang.String" itemvalue="paper-card" />
+          <item index="22" class="java.lang.String" itemvalue="paper-input" />
+          <item index="23" class="java.lang.String" itemvalue="paper-dropdown-menu" />
+          <item index="24" class="java.lang.String" itemvalue="paper-listbox" />
+          <item index="25" class="java.lang.String" itemvalue="paper-item" />
+          <item index="26" class="java.lang.String" itemvalue="paper-icon-item" />
+          <item index="27" class="java.lang.String" itemvalue="paper-ripple" />
+          <item index="28" class="java.lang.String" itemvalue="yf-layouts" />
+          <item index="29" class="java.lang.String" itemvalue="bdna-icons" />
+          <item index="30" class="java.lang.String" itemvalue="color-picker" />
+          <item index="31" class="java.lang.String" itemvalue="iron-icon" />
+          <item index="32" class="java.lang.String" itemvalue="bdna-confirm" />
+          <item index="33" class="java.lang.String" itemvalue="ag-grid" />
+          <item index="34" class="java.lang.String" itemvalue="content" />
+          <item index="35" class="java.lang.String" itemvalue="iron-a11y-keys" />
+          <item index="36" class="java.lang.String" itemvalue="te-layout-map" />
+          <item index="37" class="java.lang.String" itemvalue="paper-dialog" />
+          <item index="38" class="java.lang.String" itemvalue="paper-dialog-scrollable" />
+          <item index="39" class="java.lang.String" itemvalue="paper-tooltip" />
+          <item index="40" class="java.lang.String" itemvalue="yf-grapheditor" />
+          <item index="41" class="java.lang.String" itemvalue="yf-modelshapeconfig" />
+          <item index="42" class="java.lang.String" itemvalue="demo-snippet" />
+          <item index="43" class="java.lang.String" itemvalue="iron-component-page" />
+          <item index="44" class="java.lang.String" itemvalue="yf-shapeeditor" />
+          <item index="45" class="java.lang.String" itemvalue="test-fixture" />
+          <item index="46" class="java.lang.String" itemvalue="bdna-object" />
+          <item index="47" class="java.lang.String" itemvalue="iron-meta" />
+          <item index="48" class="java.lang.String" itemvalue="bdna-property-model" />
+          <item index="49" class="java.lang.String" itemvalue="bdna-schema" />
+          <item index="50" class="java.lang.String" itemvalue="paper-collapse-item" />
+        </list>
+      </value>
+    </option>
+    <option name="myCustomValuesEnabled" value="true" />
+  </inspection_tool>
+  <inspection_tool class="InconsistentLineSeparators" enabled="false" level="WARNING" enabled_by_default="false">
+    <scope name="Libs" level="WARNING" enabled="false" />
+  </inspection_tool>
+  <inspection_tool class="InjectedReferences" enabled="true" level="ERROR" enabled_by_default="true">
+    <scope name="Libs" level="ERROR" enabled="false" />
+  </inspection_tool>
+  <inspection_tool class="JSBitwiseOperatorUsage" enabled="false" level="WARNING" enabled_by_default="false" />
+  <inspection_tool class="JSHint" enabled="true" level="ERROR" enabled_by_default="true" />
+  <inspection_tool class="JSLint" enabled="true" level="ERROR" enabled_by_default="true" />
+  <inspection_tool class="JSUnusedLocalSymbols" enabled="true" level="WARNING" enabled_by_default="true">
+    <option name="myIgnoreUnusedFunctionParameters" value="true" />
+  </inspection_tool>
+  <inspection_tool class="LongLine" enabled="false" level="WARNING" enabled_by_default="false">
+    <scope name="Libs" level="WARNING" enabled="false" />
+  </inspection_tool>
+  <inspection_tool class="NodeModulesDependencies" enabled="false" level="WEAK WARNING" enabled_by_default="false" />
+  <inspection_tool class="ProblematicWhitespace" enabled="false" level="WARNING" enabled_by_default="false">
+    <scope name="Libs" level="WARNING" enabled="false" />
+  </inspection_tool>
+  <inspection_tool class="SSBasedInspection" enabled="true" level="ERROR" enabled_by_default="true">
+    <scope name="Libs" level="ERROR" enabled="false" />
+    <searchConfiguration name="html attribute with uppercase characters" text="&lt;$tag$ $attribute$" recursive="false" caseInsensitive="true" type="HTML">
+      <constraint name="tag" negateName="true" within="" contains="" />
+      <constraint name="attribute" regexp="(.*([A-Z])+.*)+" maxCount="2147483647" target="true" wholeWordsOnly="true" within="" contains="" />
+      <constraint name="__context__" within="" contains="" />
+      <constraint name="zag" within="" contains="" />
+    </searchConfiguration>
+    <searchConfiguration name="illegal html import" text="&lt;$tag$ $attribute$=$value$ $attribute2$=$value2$ &gt;" recursive="false" caseInsensitive="true" type="HTML">
+      <constraint name="tag" regexp="link" within="" contains="" />
+      <constraint name="attribute" regexp="rel" within="" contains="" />
+      <constraint name="value" regexp="import" within="" contains="" />
+      <constraint name="__context__" within="" contains="" />
+      <constraint name="attribute2" regexp="href" within="" contains="" />
+      <constraint name="value2" regexp=".*/\s*" target="true" within="" contains="" />
+    </searchConfiguration>
+  </inspection_tool>
+  <inspection_tool class="SpellCheckingInspection" enabled="false" level="TYPO" enabled_by_default="false">
+    <option name="processCode" value="true" />
+    <option name="processLiterals" value="true" />
+    <option name="processComments" value="true" />
+  </inspection_tool>
+  <inspection_tool class="SyntaxError" enabled="true" level="ERROR" enabled_by_default="true">
+    <scope name="Libs" level="ERROR" enabled="false" />
+  </inspection_tool>
+  <inspection_tool class="TodoComment" enabled="false" level="WARNING" enabled_by_default="false">
+    <scope name="Libs" level="WARNING" enabled="false" />
+  </inspection_tool>
+  <inspection_tool class="TrivialIfJS" enabled="false" level="WARNING" enabled_by_default="false" />
+  <inspection_tool class="UnnecessaryLocalVariableJS" enabled="false" level="WARNING" enabled_by_default="false">
+    <option name="m_ignoreImmediatelyReturnedVariables" value="true" />
+    <option name="m_ignoreAnnotatedVariables" value="false" />
+  </inspection_tool>
+</profile>
