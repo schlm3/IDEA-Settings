@@ -3,8 +3,10 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="showResultsInSeparateView" value="true" />
+    <option name="WITH_SUBDIRECTORIES" value="false" />
     <option name="SHOW_RESULTS_IN_SEPARATE_VIEW" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="index.html" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.html</mask>
@@ -15,6 +17,17 @@
       <mask>*.mxml</mask>
       <mask>*.js</mask>
       <mask>*.xml</mask>
+      <mask>*.xm</mask>
+      <mask>i</mask>
+      <mask>in</mask>
+      <mask>ind</mask>
+      <mask>inde</mask>
+      <mask>index</mask>
+      <mask>index.</mask>
+      <mask>index.h</mask>
+      <mask>index.ht</mask>
+      <mask>index.htm</mask>
+      <mask>index.html</mask>
     </recentFileMasks>
   </component>
 </application>
