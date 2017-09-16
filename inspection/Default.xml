@@ -165,9 +165,20 @@
   </inspection_tool>
   <inspection_tool class="RedundantSuppression" enabled="true" level="WARNING" enabled_by_default="true">
     <scope name="Libs" level="WARNING" enabled="false" />
+    <option name="IGNORE_ALL" value="true" />
   </inspection_tool>
-  <inspection_tool class="SSBasedInspection" enabled="true" level="WARNING" enabled_by_default="true">
+  <inspection_tool class="SSBasedInspection" enabled="true" level="ERROR" enabled_by_default="true">
     <scope name="Libs" level="WARNING" enabled="false" />
+    <searchConfiguration name="Invalid Import Syntax" text="&lt;$tag$ $attribute$=&quot;$value$&quot;/&gt;" recursive="true" caseInsensitive="true" type="HTML">
+      <constraint name="tag" regexp="link" maxCount="2147483647" within="" contains="" />
+      <constraint name="attribute" regexp="href" maxCount="2147483647" target="true" within="" contains="" />
+      <constraint name="__context__" within="xml attribute" contains="" />
+      <constraint name="expression" regexp="&lt;link" within="" contains="" />
+      <constraint name="reg" within="" contains="" />
+      <constraint name="regex" regexp="&lt;script&gt;" within="" contains="" />
+      <constraint name="Expression" regexp="[^abc]" within="" contains="" />
+      <constraint name="value" regexp="html" minCount="0" maxCount="2147483647" within="" contains="" />
+    </searchConfiguration>
   </inspection_tool>
   <inspection_tool class="SyntaxError" enabled="true" level="ERROR" enabled_by_default="true">
     <scope name="Libs" level="ERROR" enabled="false" />
