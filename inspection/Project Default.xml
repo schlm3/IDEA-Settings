@@ -33,7 +33,7 @@
   <inspection_tool class="HtmlUnknownTag" enabled="true" level="WARNING" enabled_by_default="true">
     <option name="myValues">
       <value>
-        <list size="61">
+        <list size="64">
           <item index="0" class="java.lang.String" itemvalue="nobr" />
           <item index="1" class="java.lang.String" itemvalue="noembed" />
           <item index="2" class="java.lang.String" itemvalue="comment" />
@@ -95,6 +95,9 @@
           <item index="58" class="java.lang.String" itemvalue="paper-button" />
           <item index="59" class="java.lang.String" itemvalue="bdna-chart" />
           <item index="60" class="java.lang.String" itemvalue="bdna-aggregate-quality-chart" />
+          <item index="61" class="java.lang.String" itemvalue="bdna-relation-model" />
+          <item index="62" class="java.lang.String" itemvalue="bdna-editable" />
+          <item index="63" class="java.lang.String" itemvalue="bdna-object-dropdown" />
         </list>
       </value>
     </option>
